@@ -1,6 +1,6 @@
 # Presentation
 
-A powershell scripts that takes the name, surname of an Active Directory user and outputs :
+A powershell scripts that takes the login or name and/or surname of an Active Directory user and outputs :
 - Name
 - Description
 - SamAccountName
@@ -8,5 +8,7 @@ A powershell scripts that takes the name, surname of an Active Directory user an
 - Manager
 - manager's mail
 - MemberOf / the groups that the user is in
+
+Of every user with that name and or surname.
 
 # Installation
